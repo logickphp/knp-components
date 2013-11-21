@@ -1,5 +1,8 @@
 # Knp Component library
 
+
+# SOLUCIONADO EL PROBLEMA DEL COUNT
+
 ## Components in this library:
 
 - [Pager](https://github.com/knplabs/knp-components/tree/master/doc/pager/intro.md)
